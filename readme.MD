@@ -26,10 +26,10 @@
 para escribir tipografía es muy parecido a la estrategía usada en Whatsapp.
 Esto esta en **negritas** y esta _palabra_ esta en cursivas.
 
-´´´
+```
 def sumar(a, b){
 
 }
-´´´
+```
 # Marx 
-![Marx](https://www.britannica.com/biography/Karl-Marx)
+![Marx](https://www.pinterest.com/pin/4433299629801531/)
