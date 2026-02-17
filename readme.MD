@@ -32,4 +32,4 @@ def sumar(a, b){
 }
 ```
 # Marx 
-![Marx](https://www.pinterest.com/pin/4433299629801531/)
+![Marx](https://nohat.cc/f/svg-marx-portrait/freesvgorg102627-16321559.html)
